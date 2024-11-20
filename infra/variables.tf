@@ -23,7 +23,7 @@ variable "app_namespace" {
 }
 
 variable "app_image" {
-  default = "davidaavilar/springapp"
+  default = "stivenavila/testapp"
 }
 
 variable "app_image_tag" {
